@@ -1,6 +1,12 @@
-[
-  {
-    "title": "cats are our owners",
-    "body": "meowwwwwww"
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello",
+      "body": "meowwww"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
   }
-]
+}
